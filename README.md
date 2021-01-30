@@ -1,9 +1,10 @@
 # Boids
-Everything is here in this folder :D
 
-Hello everyone!!!
+This is my attempt at making boids based on the wikipedia article https://en.wikipedia.org/wiki/Boids
 
-This is my attemp at making boids based on the wikipedia article https://en.wikipedia.org/wiki/Boids
-There is a video of the working project in the folder, though its very bad quality. Sorry I'm terrible at recording.
+My version of boids just follow 3 rules:
+- Cohesion
+- Separation
+- Alignment
 
-Hope you have fun with this. If you have any suggestions or questions, my discord is UnKnownAbyss#3964
+There is a poor quality video of the working project in the folder. Install pygame before running it
